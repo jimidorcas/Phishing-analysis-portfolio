@@ -1,0 +1,33 @@
+# 📧 Phishing Analysis Portfolio
+
+## 📌 Overview
+This project demonstrates my ability to analyse phishing emails using Python, extract **Indicators of Compromise (IOCs)**, and identify attacker patterns.  
+I used open-source phishing datasets and sample `.eml` files, then wrote Python scripts to parse, analyse, and visualise phishing techniques.
+
+This repo will be updated as the project progresses:
+- ✅ Email header extraction  
+- ✅ URL parsing & domain checks  
+- ⏳ Visualisations (common domains, suspicious TLDs)  
+- ⏳ Report with findings & screenshots  
+
+---
+
+## 🎯 Objectives
+- Parse phishing email headers (From, Reply-To, Subject).  
+- Extract URLs and flag red flags (IP-based, typosquatting, suspicious TLDs).  
+- Automate detection using Python scripts.  
+- Visualise phishing trends with charts.  
+- Produce a short findings report.  
+
+---
+
+## 🛠️ Tools & Libraries
+- Python 3  
+- `email` (header parsing)  
+- `re` (regex for URLs)  
+- `tldextract` (domain analysis)  
+- `pandas`, `matplotlib` (data visualisation – coming soon)  
+
+---
+
+## 📂 Repository Structure
