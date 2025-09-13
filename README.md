@@ -21,7 +21,7 @@ Phishing is one of the most prevalent cybersecurity threats affecting both indiv
 
 ## 📨 Analyzed Phishing Emails
 
-1. **[Email 1 – $MILK Token Crypto Airdrop Scam](analysis/email1-analysis.md)**  
+1. **[Email 1 – $MILK Token Crypto Airdrop Scam]([analysis/email1-analysis.md](https://github.com/jimidorcas/Phishing-analysis-portfolio/blob/main/Email%201%20Analysis%20–%20Claim%20Your%20%24MILK%20Token.md))**  
    - Impersonates a newsletter offering free tokens  
    - Uses urgency and wallet access to steal credentials
 
