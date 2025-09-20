@@ -70,10 +70,3 @@ phishing-analysis-portfolio/
 
 
 
-
----
-
-## 👋 About Me
-
-I’m an entry-level cybersecurity analyst building my skill set through practical projects, certifications, and self-driven learning. I'm passionate about SOC, GRC, and protecting users from evolving digital threats.
-
