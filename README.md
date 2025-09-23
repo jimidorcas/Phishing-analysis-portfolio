@@ -15,7 +15,6 @@ Phishing is one of the most prevalent cybersecurity threats affecting both indiv
 - Understand spoofing, urgency tactics, and social engineering
 - Use open-source tools to investigate links, headers, and domains
 - Document findings clearly and professionally
-- Think like an analyst, even before stepping into a full-time role
 
 ---
 
