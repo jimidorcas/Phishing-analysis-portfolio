@@ -7,7 +7,7 @@ An email targeting crypto subscribers with an urgent token airdrop offer, attemp
 ---
 
 ### 📸 Screenshot  
-![Phishing Email Screenshot](screenshots/email1.png)
+![Phishing Email Screenshot](https://github.com/jimidorcas/Phishing-analysis-portfolio/blob/main/email1.jpg)
 
 ---
 
