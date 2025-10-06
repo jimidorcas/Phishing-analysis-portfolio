@@ -7,7 +7,7 @@ This email impersonates a cloud storage provider and uses fear-based messaging t
 ---
 
 ### 📸 Screenshot  
-![Phishing Email Screenshot](screenshots/email2.png)
+![Phishing Email Screenshot](https://github.com/jimidorcas/Phishing-analysis-portfolio/blob/main/email2.png)
 
 ---
 
