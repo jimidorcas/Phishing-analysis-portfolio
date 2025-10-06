@@ -24,7 +24,7 @@ Phishing is one of the most prevalent cybersecurity threats affecting both indiv
    - Impersonates a newsletter offering free tokens  
    - Uses urgency and wallet access to steal credentials
 
-2. **[Email 2 – Cloud Storage Payment Failure](https://github.com/jimidorcas/Phishing-analysis-portfolio/blob/main/email2.png)**  
+2. **[Email 2 – Cloud Storage Payment Failure](https://github.com/jimidorcas/Phishing-analysis-portfolio/blob/main/Email%202%20Analysis%20–%20Cloud%20Storage%20Phishing.md)**  
    - Impersonates a cloud service warning users about data deletion  
    - Uses fear and urgency to steal payment information
 
