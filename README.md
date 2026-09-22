@@ -63,7 +63,7 @@ phishing-analysis-portfolio/
 │   ├── email1-analysis.md
 │   └── email2-analysis.md
 │
-└── README.md (this file)
+└── README.md
 ```
 
 
