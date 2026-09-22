@@ -3,7 +3,7 @@ A portfolio of phishing email analysis demonstrating social engineering awarenes
 
 # 🛡️ Phishing Email Analysis Portfolio
 
-This project showcases practical phishing email analyses . It reflects my ability to identify social engineering techniques, analyze suspicious emails, and document findings using common threat intelligence tools.
+This project showcases practical phishing email analysis. It reflects my ability to identify social engineering techniques, analyze suspicious emails, and document findings using common threat intelligence tools.
 
 ---
 
